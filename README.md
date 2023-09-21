@@ -1,4 +1,4 @@
-# chatapp
+# authentication screen
 
 A new Flutter project.
 
